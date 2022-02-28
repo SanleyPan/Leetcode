@@ -1,3 +1,3 @@
 # Leetcode
 Leetcode for every day
-Change the git user;
+Change the git user
